@@ -60,7 +60,7 @@ OpenLibreAI will have a workflow that is similar to the following:
 ## OpenLibreAI Collaboration Model and Structure
 
 
-OpenLibreAI is structured as an open source collective and devs are compensated in proportional-accrued-value-impact-dollars (PAVIDs). PAVIDs are credits, which are pegged to USD so that 1 PAVID = 1 USD.
+OpenLibreAI is structured as an open source collective where contributors are compensated in proportional-accrued-value-impact-dollars (PAVIDs). PAVIDs are credits, which are pegged to USD so that 1 PAVID = 1 USD.
 
 
 
