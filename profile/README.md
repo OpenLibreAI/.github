@@ -36,7 +36,7 @@ OpenLibreAI will have a workflow that is similar to the following:
 
 - The ingestion module will also need to be domain specific, so there will be different modules for different domains and potentially also different use-cases
 
-- For example, the cancer prediction moel will need labeled carcinoma imagery
+- For example, the cancer prediction model will need labeled carcinoma imagery
 
 - Video annotation modules can ingest videos of various events and summarize them, as well as create described-video from them
 
