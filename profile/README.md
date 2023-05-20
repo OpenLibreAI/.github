@@ -12,7 +12,7 @@
 
 - Opportunity for creating value exists for cloud developers and AI foundational tool builders in the foundational layer
 
-- Massive opportunity exists in the application layer as well in multiple sectors
+- Massive opportunity exists in multiple sectors for developers at the application layer
 
 - Deep Learning Labelling AI has valuable use-cases
 
