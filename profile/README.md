@@ -28,11 +28,11 @@
 
 ## Overview
 
-The world needs fine-tuned models for domain specific use-cases to solve domain-specific problems such as image analysis, video analysis, and vector database data analysis.
+- The world needs fine-tuned models for domain specific use-cases to solve domain-specific problems such as image analysis, video analysis, and vector database data analysis.
 
-The inputs to the OpenLibreAI models are raw data.
+- Inputs to  OpenLibreAI models are raw data.
 
-The output of the OpenLibreAI API (which wrap the OpenLibreAI models) are generated text, images, predictions, summaries and other value-add artifacts.
+- Outputs of OpenLibreAI API (which wrap the OpenLibreAI models) are generated text, images, predictions, summaries and other value-add artifacts.
 
 ## Screenshots
 
@@ -42,23 +42,23 @@ The output of the OpenLibreAI API (which wrap the OpenLibreAI models) are genera
 
 ## Mission
 
-OpenLibreAI is a free and open source platform for AI research and development. It is a community-driven project that aims to provide a platform for AI researchers and developers to collaborate and share their work. 
+- OpenLibreAI is a free and open source platform for AI research and development. It is a community-driven project that aims to provide a platform for AI researchers and developers to collaborate and share their work. 
 
-What the world needs now is an open source AI stack / cloud platform / application platform.
+- What the world needs now is an open source AI stack / cloud platform / application platform.
 
-OpenLibreAI is an open source attempt to collect, deploy, and productionize open source models that are state of the art right now (StabilityAI, etc) as well as the ML models for specific use-cases on HuggingFace. 
+- OpenLibreAI is an open source attempt to collect, deploy, and productionize open source models that are state of the art right now (StabilityAI, etc) as well as the ML models for specific use-cases on HuggingFace. 
 
-OpenLibreAI will deploy them under the open source OpenLibreAI platform.
+- OpenLibreAI will deploy them under the open source OpenLibreAI platform.
 
-OpenLibreAI's models would be trained and fine-tuned for domain-specific use-cases.
+- OpenLibreAI's models would be trained and fine-tuned for domain-specific use-cases.
 
-For example, OpenLibre can use skin cancer data and images to train the OpenLibreAI-Carcinoma model that can be deployed as an API and OpenLibreAI gets to charge for the API calls.
+- For example, OpenLibre can use skin cancer data and images to train the OpenLibreAI-Carcinoma model that can be deployed as an API and OpenLibreAI gets to charge for the API calls.
 
-OpenLibreAI will also have a marketplace for AI models and APIs.
+- OpenLibreAI will also have a marketplace for AI models and APIs.
 
 ## Workflow
 
-OpenLibreAI will have a workflow that is similar to the following:
+- OpenLibreAI will have a workflow that is similar to the following:
 
 - OpenLibreAI models will need to be trained on good data
 
@@ -96,7 +96,9 @@ OpenLibreAI will have a workflow that is similar to the following:
 ## OpenLibreAI Collaboration Model and Structure
 
 
-OpenLibreAI is structured as an open source collective where contributors are compensated in proportional-accrued-value-impact-dollars (PAVIDs). PAVIDs are credits, which are pegged to USD so that 1 PAVID = 1 USD.
+- OpenLibreAI is structured as an open source collective where contributors are compensated in proportional-accrued-value-impact-dollars (PAVIDs). 
+
+- PAVIDs are credits, which are pegged to USD so that 1 PAVID = 1 USD.
 
 
 
