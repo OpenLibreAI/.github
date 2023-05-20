@@ -10,7 +10,13 @@
 
 - Nvidia, Intel, AMD are creating value in the hardware layer
 
-- Opportunity for creating value exists for cloud developers and AI foundational tool builders 
+- Opportunity for creating value exists for cloud developers and AI foundational tool builders in the foundational layer
+
+- Massive opportunity exists in the application layer as well in multiple sectors
+
+- Deep Learning Labelling AI has valuable use-cases
+
+- Generative AI has applications for thousands of use-cases 
 
 
 
