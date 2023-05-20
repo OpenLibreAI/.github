@@ -1,5 +1,12 @@
 # OpenLibreAI
 
+## Background
+
+- AI is like electricity. It has the potential to transform all industries.
+
+- It has applications in healthcare, finance, transportation, retail, manufacturing, agriculture, education, energy, media and cybersecurity
+
+
 ## Overview
 
 The world needs fine-tuned models for domain specific use-cases to solve domain-specific problems such as image analysis, video analysis, and vector database data analysis.
