@@ -10,7 +10,7 @@ The output of the OpenLibreAI API (which wrap the OpenLibreAI models) are genera
 
 ## Screenshots
 
-<img width="1357" alt="screenshot_2" src="https://github.com/OpenLibreAI/.github/assets/420937/e27e1526-4b66-4134-b90e-ae2afe7a8688">
+<img width="800" alt="screenshot" src="https://raw.githubusercontent.com/OpenLibreAI/OpenLibreStudio/develop/screenshots/screenshot_3.png">
 
 
 
