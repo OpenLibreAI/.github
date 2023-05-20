@@ -18,6 +18,8 @@
 
 - Generative AI has applications and thousands of use-cases 
 
+- Solving alignment helps humanity optimize for the upside and mitigate risks
+
 
 
 ## Overview
