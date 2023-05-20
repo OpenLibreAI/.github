@@ -16,7 +16,7 @@
 
 - Deep Learning Labelling AI has valuable use-cases
 
-- Generative AI has applications for thousands of use-cases 
+- Generative AI has applications and thousands of use-cases 
 
 
 
