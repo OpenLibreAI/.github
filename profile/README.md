@@ -2,9 +2,16 @@
 
 ## Background
 
+- AI is a general purpose technology that can be applied to various sectors
+
 - AI is like electricity. It has the potential to transform all industries.
 
 - It has applications in healthcare, finance, transportation, retail, manufacturing, agriculture, education, energy, media and cybersecurity
+
+- Nvidia, Intel, AMD are creating value in the hardware layer
+
+- Opportunity for creating value exists for cloud developers and AI foundational tool builders 
+
 
 
 ## Overview
