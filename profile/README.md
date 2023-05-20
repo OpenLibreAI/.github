@@ -20,6 +20,10 @@
 
 - Solving alignment helps humanity optimize for the upside and mitigate risks
 
+- Alignment and capabilities are not orthogonal. They can be simultaneously optimized
+
+- Providing APIs and tools for training open source models allows for the simultaneous optimization of alignment and capabilities
+
 
 
 ## Overview
