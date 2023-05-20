@@ -8,6 +8,12 @@ The inputs to the OpenLibreAI models are raw data.
 
 The output of the OpenLibreAI API (which wrap the OpenLibreAI models) are generated text, images, predictions, summaries and other value-add artifacts.
 
+## Screenshots
+
+<img width="1357" alt="screenshot_2" src="https://github.com/OpenLibreAI/.github/assets/420937/e27e1526-4b66-4134-b90e-ae2afe7a8688">
+
+
+
 ## Mission
 
 OpenLibreAI is a free and open source platform for AI research and development. It is a community-driven project that aims to provide a platform for AI researchers and developers to collaborate and share their work. 
