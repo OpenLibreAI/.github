@@ -86,7 +86,11 @@ OpenLibreAI will have a workflow that is similar to the following:
 ## Vision 
 - OpenLibreAI is first and foremost an open source community that believes in deployment of responsible AI for the collective elevation of humanity
 
+## Roadmap
 
+- OpenLibreStudio provides tools, APIs and UIs for datasets, training and deployment of models and APIs for interacting with models
+
+- OpenLibreGPT is an autonomous agent / personal AI Assistant that runs on mobile devices (Android and iOS) and performs tasks under the supervision of the user
 
 - One of the business models for OpenLibreAI will be to charge for the cleaned training data
 ## OpenLibreAI Collaboration Model and Structure
