@@ -1,6 +1,6 @@
 # OpenLibreAI
 
-## Background
+## Overview, Background, Mission and Vision
 
 - AI is a general purpose technology that can be applied to various sectors
 
@@ -26,7 +26,7 @@
 
 
 
-## Overview
+## Why
 
 - The world needs fine-tuned models for domain specific use-cases to solve domain-specific problems such as image analysis, video analysis, and vector database data analysis.
 
